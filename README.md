@@ -1,2 +1,3 @@
 # GPP-Password-Decryptor
-Script to decrypt Group Policy Preferences Password
+Use: python3 gpp-decrypt.py Groups.xml
+![imagen](https://github.com/blu3ming/GPP-Password-Decryptor/assets/25083316/21f113b7-9b9d-43b3-b596-c60ce87df2e5)
